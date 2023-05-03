@@ -1,0 +1,4 @@
+#list the files
+ls -lrt
+du-sh *
+
