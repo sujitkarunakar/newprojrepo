@@ -1,0 +1,3 @@
+#list the files
+ls -alrth
+du -sh *
